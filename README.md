@@ -26,5 +26,4 @@ To design and build a robot that can detect and follow a black or white line on 
    - If the line is towards the right → turn right
 3. Continuous real-time feedback loop ensures the robot follows the path.
 
-## 🧠 Logic Overview (Pseudocode)
-
+Demo: https://youtube.com/shorts/XH-bhiXGY0Y?si=ZvJIjgM4FykidRa2
